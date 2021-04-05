@@ -1,2 +1,2 @@
 # StopWatch
-StopWatch with HTML/CSS &amp; Javascript
+StopWatch with HTML/CSS &amp; JavaScript
